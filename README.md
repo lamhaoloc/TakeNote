@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Take Note App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project was created at 29/01/2021.
+A Example Web App to practice.
+- TypeScript
+- React
+- Redux
+- Redux-saga
 
 ## Available Scripts
 
